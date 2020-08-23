@@ -9,3 +9,7 @@ Overview of free web hosting offers
 ## PHP
 
 - http://www.free-webhosts.com/free-php-webhosting.php
+
+## Python
+- [Pythonanywhere](https://www.pythonanywhere.com/)
+- [Heroku](https://www.heroku.com/)
